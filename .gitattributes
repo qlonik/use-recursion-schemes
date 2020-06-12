@@ -1,0 +1,2 @@
+# force LF line-endings in all text files checked out by git
+* text=auto eol=lf

@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    // basic options
+    "target": "ESNext",
+    "module": "CommonJS",
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+
+    // module resolution options
+    "esModuleInterop": true,
+
+    // type checking options
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "strict": true
+  },
+  "exclude": ["dist"]
+}
